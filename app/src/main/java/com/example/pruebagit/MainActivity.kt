@@ -5,6 +5,7 @@ import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Button
 
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -27,6 +28,13 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
+
+        val button = Button(applicationContext)
+        val button23 = Button(applicationContext)
+        val button3 = Button(applicationContext)
+        val button4 = Button(applicationContext)
+        val button5 = Button(applicationContext)
+        val button6 = Button(applicationContext)
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
