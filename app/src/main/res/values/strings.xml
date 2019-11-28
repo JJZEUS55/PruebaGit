@@ -1,6 +1,28 @@
 <resources>
     <string name="app_name">PruebaGit</string>
     <string name="action_settings">Settings</string>
+    <string name="action_seettings">Settings</string>
+    <string name="action_sewttings">Settings</string>
+    <string name="action_wsettings">Settings</string>
+    <string name="action_srettings">Settings</string>
+    <string name="action_setttings">Settings</string>
+    <string name="action_setdftings">Settings</string>
+    <string name="action_settisfsdcngs">Settings</string>
+    <string name="actidsfon_settings">sdcvSettings</string>
+    <string name="acsdtion_settings">Settsdings</string>
+    <string name="action_dssettings">Settings</string>
+    <string name="assdtion_settings">Settings</string>
+    <string name="actison_settings">Settings</string>
+    <string name="actiodsn_settings">Settings</string>
+    <string name="actioan_settings">Settings</string>
+    <string name="actionccv_settings">Settings</string>
+    <string name="actiosn_settings">Settings</string>
+    <string name="actzion_settings">Settings</string>
+    <string name="actionds_settings">Settings</string>
+    <string name="actiujon_settings">Settings</string>
+    <string name="actimon_settings">Settings</string>
+    <string name="actiosdbn_settings">Settings</string>
+
     <string name="app_name1">PruebaGit</string>
     <string name="action_setting1s">Settings</string>
     <string name="app_na1me">PruebaGit</string>
